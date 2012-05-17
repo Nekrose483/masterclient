@@ -1,5 +1,4 @@
 using System;
-using Gtk;
 
 namespace DroneServer
 {
@@ -7,10 +6,7 @@ namespace DroneServer
 	{
 		public static void Main (string[] args)
 		{
-			Application.Init ();
-			MainWindow win = new MainWindow ();
-			win.Show ();
-			Application.Run ();
+			Console.WriteLine ("Hello World!");
 		}
 	}
 }
