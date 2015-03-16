@@ -1,0 +1,1 @@
+Master's client for the Hive's server.
